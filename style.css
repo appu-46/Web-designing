@@ -156,8 +156,11 @@ img {
 
 h3 {
   margin-bottom: 24px;
-  font-size: 20px;
+  font-size: 30px;
 }
+
+/* li {
+} */
 
 .chair-details {
   list-style: none;
@@ -169,6 +172,7 @@ h3 {
   align-items: center;
   gap: 12px;
   margin-bottom: 24px;
+  font-size: 18px;
 }
 
 .chair-details li:last-child {
